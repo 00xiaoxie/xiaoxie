@@ -4,7 +4,7 @@
 
     <groupId>com.hsbc</groupId>
     <artifactId>superBank</artifactId>
-    <version>1</version>
+    <version>2-SNAPSHOT</version>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
@@ -37,7 +37,7 @@
         <url>https://github.com/00xiaoxie/xiaoxie.git</url>
         <connection>scm:git:https://github.com/00xiaoxie/xiaoxie.git</connection>
         <developerConnection>scm:git:https://github.com/00xiaoxie/xiaoxie.git</developerConnection>
-        <tag>superBank-1</tag>
+        <tag>HEAD</tag>
     </scm>
 
     <build>
