@@ -9,7 +9,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
  * @Date:Create in 16:02 2018/7/30
  * @Modify By:
  */
-@SpringBootApplication
+@SpringBootApplication(scanBasePackages = "com.hsbc.superBank.execulting.modules")
 public class Application {
     public static void main(String[] args) {
         SpringApplication.run(Application.class, args);
